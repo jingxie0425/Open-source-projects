@@ -1,0 +1,9 @@
+[submodule "shadernn"]
+	path = shadernn
+	url = https://github.com/inferenceengine/shadernn
+[submodule "welter"]
+	path = welter
+	url = https://code.umd.edu/dspcad-pub/welter.git
+[submodule "hedgehog"]
+	path = hedgehog
+	url = https://github.com/usnistgov/hedgehog.git
